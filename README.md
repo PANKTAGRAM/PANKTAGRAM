@@ -1,4 +1,4 @@
 PANKTAGRAM
 ==========
 
-My App
+PANKTAGRAM App
